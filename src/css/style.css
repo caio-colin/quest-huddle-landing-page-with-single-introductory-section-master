@@ -17,6 +17,7 @@ body {
   gap: 30px;
 }
 .container .conteudo-topo {
+  padding-left: 30px;
   max-width: 710px;
 }
 .container .conteudo-topo .illustration {
