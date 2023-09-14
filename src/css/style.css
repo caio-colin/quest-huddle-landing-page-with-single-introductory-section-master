@@ -102,6 +102,9 @@ body {
 
     flex-direction: column;
   }
+  .container .conteudo-topo {
+    padding-left: 0px;
+  }
   .illustration {
     padding: 0 30px;
   }
