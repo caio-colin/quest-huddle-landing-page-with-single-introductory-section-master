@@ -1,6 +1,6 @@
 body {
   font-family: "Poppins", sans-serif;
-  background-image: url(/images/bg-desktop.svg);
+  background-image: url(../images/bg-desktop.svg);
   background-size: cover;
   background-color: #674bb1;
   background-position: -110px;
@@ -48,7 +48,7 @@ body {
 .container .section-info .btn {
   background-color: white;
   border-radius: 26px;
-  padding: 10px 45px;
+  padding: 10px 65px;
   color: #7763b8;
   border: none;
   box-shadow: 5px 5px 20px -10px black;
@@ -81,4 +81,3 @@ body {
   color: #e980e7;
   border: 1px solid #e980e7;
 }
-
